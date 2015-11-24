@@ -1,0 +1,49 @@
+body {
+/*background-color: red;*/
+}
+
+p {
+    margin-bottom: 200px;
+}
+/*social media icons*/
+#share-buttons img {
+    width: 40px;
+    padding: 5px;
+    border: 0;
+    box-shadow: 0;
+    display: inline;
+}
+
+header {
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+#hero {
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+
+#pinder {
+  /*has its own css*/
+}
+#portfolio {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#about {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#contact{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+footer {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+/*footer address text*/
+.address {
+    text-align: center;
